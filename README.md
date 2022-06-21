@@ -2,7 +2,7 @@
 
 - There are plenty types of Shell Program (sh/ ksh/ rbash etc), out of which we are 'bout to learn <code>Bash</code> or Bourne Again Shell
 
-- It was mainly designed for UNIX and Linux users as is perfect stands with Linux Environment
+- It was mainly designed for UNIX and Linux users as it perfect stands with Linux Environment
 
 - It is an open source [GNU](https://www.gnu.org/home.en.html) project
 
