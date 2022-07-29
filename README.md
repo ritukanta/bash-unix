@@ -17,7 +17,6 @@
 - To make it executable, we use <code>chmod +x FileName</code>
 
 - After changing permissions to make it executable, you can run ur bash script file as:
-```
+```Bash
 ./filename.sh
 ```
-- If we change permissions and run this [script file](https://github.com/ritukanta/Bash/blob/02/02.sh), the result will be [this](https://github.com/ritukanta/Bash/blob/03/ss-2.png)
