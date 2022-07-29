@@ -1,4 +1,5 @@
-### Introduction
+![Bash Logo](../01/bash.png)
+## Introduction
 
 - There are plenty types of Shell Program (sh/ ksh/ rbash etc), out of which we are 'bout to learn <code>Bash</code> or Bourne Again Shell
 
@@ -14,7 +15,7 @@
 
 - Bash is a default login shell, which means u don't need to install a dedicated software on ur Linux or Mac Operating System
 
-### Shell
+## Shell
 
 - A UNIX Shell is a command line interpreter that interprets the user commands which are either enetred by the user or executed by shell script files i.e. <code>.sh</code> files
 
@@ -24,4 +25,5 @@
 
 - After executing this command, u will get the root paths of different shells, to get path of a certain file we use <code>which</code> command on Linux i.e. for <code>bash</code>, execute <code>which bash</code>
 
-- The result would be most likely the [following](https://github.com/ritukanta/Bash/blob/01/screenshot.png)
+> The result would be most likely the following 
+![ss](../01/screenshot.png)
