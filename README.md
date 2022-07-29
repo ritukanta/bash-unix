@@ -1,4 +1,4 @@
-### Bash Scripting
+## Bash Scripting
 
 - Bash Scripting is a powerful part of system administration and development used at an extreme level.
 
@@ -8,12 +8,12 @@
 
 - It automates those repetative commands on Linux OS
 
-### Create and a Bash Script/ .sh
+## Create and a Bash Script/ .sh
 
 - To create a .sh file, change to Desktop or ur desired directory and open the default command line. For Windows, u can use any text editor such as VSCode, Sublime text etc
 
 - Then create a file with extension <code>.sh</code> using </code>touch</code> cmd on Linux or any other text editor i.e.
-```
+```Bash
 touch hello.sh
 ```
 
